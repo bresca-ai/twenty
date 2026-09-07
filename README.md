@@ -1,3 +1,11 @@
+# Twenty — Bresca fork
+
+This is Bresca's fork of [twentyhq/twenty](https://github.com/twentyhq/twenty). Upstream documentation and licensing are retained below. The customized Bresca knowledge and automation platform is maintained in [bresca-crm](https://github.com/bresca-ai/bresca-crm); [bresca-crm-2](https://github.com/bresca-ai/bresca-crm-2) is a separate implementation.
+
+Upstream Actions are not a Bresca deployment pipeline. Keep Actions disabled on this reference fork unless a maintainer defines and validates a Bresca-specific workflow. Do not configure upstream deployment, translation, or publishing credentials here.
+
+---
+
 <p align="center">
   <a href="https://www.twenty.com">
     <img src="./packages/twenty-website/public/images/core/logo.svg" width="100px" alt="Twenty logo" />
